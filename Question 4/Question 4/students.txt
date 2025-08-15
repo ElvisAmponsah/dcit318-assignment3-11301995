@@ -1,0 +1,10 @@
+1,John Doe,85
+2,Jane Smith,92
+3,Mike Johnson,78
+4,Sarah Wilson,95
+5,David Brown,67
+6,Emily Davis,88
+7,Robert Miller,73
+8,Lisa Anderson,91
+9,James Taylor,82
+10,Amanda White,76

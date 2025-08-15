@@ -9,7 +9,7 @@ namespace Question_1
             FinanceApp app = new FinanceApp();
             app.Run();
 
-            Console.WriteLine("Press any key to exit...");
+            Console.WriteLine("Press any key to exit ...");
             Console.ReadKey();
         }
     }

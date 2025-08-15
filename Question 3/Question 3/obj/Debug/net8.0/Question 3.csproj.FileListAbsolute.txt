@@ -1,0 +1,15 @@
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\bin\Debug\net8.0\Question 3.exe
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\bin\Debug\net8.0\Question 3.deps.json
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\bin\Debug\net8.0\Question 3.runtimeconfig.json
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\bin\Debug\net8.0\Question 3.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\bin\Debug\net8.0\Question 3.pdb
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\Question 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\Question 3.AssemblyInfoInputs.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\Question 3.AssemblyInfo.cs
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\Question 3.csproj.CoreCompileInputs.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\Question 3.sourcelink.json
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\Question 3.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\refint\Question 3.dll
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\Question 3.pdb
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\Question 3.genruntimeconfig.cache
+C:\Users\agyap\Downloads\Elvis C sharp\dcit318-assignment3-11301995\Question 3\Question 3\obj\Debug\net8.0\ref\Question 3.dll
